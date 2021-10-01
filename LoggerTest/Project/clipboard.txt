@@ -1,0 +1,2 @@
+New Line: Clipboard Data: 
+start_time = time.time()
