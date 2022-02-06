@@ -1,7 +1,0 @@
- Public IP Address: 219.74.124.236
-Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
-System: Windows 10.0.19041
-Machine: AMD64
-Hostname: Mukesh-SP7
-Private IP Address: 192.168.1.104
-.....................................................................
